@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allandz13
-- 👀 I’m interested in AI and UI/UX
+- 👀 I’m interested in UI/UX
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me: allan_dz13 (instagram)
